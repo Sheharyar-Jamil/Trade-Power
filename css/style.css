@@ -1,0 +1,23 @@
+body {
+  background-color: #181818;
+}
+
+.nav-btn:link,
+.nav-btn:visited {
+  font-size: 1.1rem;
+  background-color: #23a03e;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  display: inline-block;
+  border-radius: 9px;
+}
+
+.nav-btn-wallet:link,
+.nav-btn-wallet:visited {
+  font-size: 1.1rem;
+  background-color: #dc3242;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  display: inline-block;
+  border-radius: 9px;
+}
